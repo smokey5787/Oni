@@ -1,0 +1,2 @@
+# Oni
+Splashscreen for KDE
